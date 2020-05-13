@@ -1,0 +1,15 @@
+﻿Originalmente toda a base de Estrutura Mercadológica conta com 140.835 linhas de produtos e 923 categorias e 5218 sub categorias
+
+
+Foram retirados uma amostra de 31.442 linhas de amostra de base para os datasets. 
+
+
+Desses valores, dividimos em:
+* Treino: 22.009 linhas de produtos divididos em 
+   * 332 categorias 
+   * 1924 sub categorias
+* Teste: 9.433 linhas de produtos divididos em 
+   * 332 categorias
+   *  1924 sub categorias
+
+O desafio é a partir das descrições dos produtos, gerar uma classificação para Categorias e Sub Categorias.
