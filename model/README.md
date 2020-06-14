@@ -17,6 +17,7 @@ O desafio é desenvolver um código para cadastro e categorização automáticas
 * model.ipynb - Notebook com a solução apresentada
 * train.csv - Arquivo com os dados (DESCRIÇÃO PARCEIRO,SUB-CATEGORIA,CATEGORIA,DEPARTAMENTO), utilizado para treinamento do modelo
 * test.csv - Arquivo com os dados (DESCRIÇÃO PARCEIRO), utilizado para teste do modelo
+* result.csv - Arquivo com os dados (DESCRIÇÃO PARCEIRO,SUB-CATEGORIA,CATEGORIA), utilizado para validação do modelo
 
 ### Executando o Notebbok
 
