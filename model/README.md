@@ -2,7 +2,7 @@
 
 ## Aqui você encontra!
 
-* A solução apresentada para o Hackathon Dotz 2020
+A solução apresentada para o Hackathon Dotz 2020
 
 ### Dotz
 
@@ -25,5 +25,7 @@ Para executar o notebook **model.ipynb** precisam estar no mesmo diretório do n
 ### Contatos
 
 Email: diasctiago@gmail.com
+
 GitHub: https://github.com/diasctiago
+
 LinkedIn: https://www.linkedin.com/in/diasctiago/
