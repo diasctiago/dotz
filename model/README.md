@@ -15,5 +15,15 @@ O desafio é desenvolver um código para cadastro e categorização automáticas
 ### Arquivos
 
 * model.ipynb - Notebook com a solução apresentada
-* train - Arquivo com os dados (DESCRIÇÃO PARCEIRO,SUB-CATEGORIA,CATEGORIA,DEPARTAMENTO), utilizado para treinamento do modelo
-* test - Arquivo com os dados (DESCRIÇÃO PARCEIRO), utilizado para teste do modelo
+* train.csv - Arquivo com os dados (DESCRIÇÃO PARCEIRO,SUB-CATEGORIA,CATEGORIA,DEPARTAMENTO), utilizado para treinamento do modelo
+* test.csv - Arquivo com os dados (DESCRIÇÃO PARCEIRO), utilizado para teste do modelo
+
+### Executando o Notebbok
+
+Para executar o notebook **model.ipynb** precisam estar no mesmo diretório do notebook um arquivo de treinamento (Nome: **train.csv**, Colunas: DESCRIÇÃO PARCEIRO,SUB-CATEGORIA,CATEGORIA,DEPARTAMENTO) e o arquivo que deseja fazer a classificação (Nome: **test.csv**, Coluna: DESCRIÇÃO PARCEIRO), após a execução vai ser gerado no mesmo diretório um arquivo com a classificação ((Nome: **result.csv**, Colunas: DESCRIÇÃO PARCEIRO,SUB-CATEGORIA,CATEGORIA).
+
+### Contatos
+
+Email: diasctiago@gmail.com
+GitHub: https://github.com/diasctiago
+LinkedIn: https://www.linkedin.com/in/diasctiago/
