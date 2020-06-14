@@ -20,7 +20,7 @@ O desafio é desenvolver um código para cadastro e categorização automáticas
 
 ### Executando o Notebbok
 
-Para executar o notebook **model.ipynb** precisam estar no mesmo diretório do notebook um arquivo de treinamento (Nome: **train.csv**, Colunas: DESCRIÇÃO PARCEIRO,SUB-CATEGORIA,CATEGORIA,DEPARTAMENTO) e o arquivo que deseja fazer a classificação (Nome: **test.csv**, Coluna: DESCRIÇÃO PARCEIRO), após a execução vai ser gerado no mesmo diretório um arquivo com a classificação ((Nome: **result.csv**, Colunas: DESCRIÇÃO PARCEIRO,SUB-CATEGORIA,CATEGORIA).
+Para executar o notebook **model.ipynb** precisam estar no mesmo diretório do notebook um arquivo de treinamento (Nome: **train.csv**, Colunas: DESCRIÇÃO PARCEIRO,SUB-CATEGORIA,CATEGORIA,DEPARTAMENTO) e o arquivo que deseja fazer a classificação (Nome: **test.csv**, Coluna: DESCRIÇÃO PARCEIRO), após a execução vai ser gerado no mesmo diretório um arquivo com a classificação (Nome: **result.csv**, Colunas: DESCRIÇÃO PARCEIRO,SUB-CATEGORIA,CATEGORIA).
 
 ### Contatos
 
